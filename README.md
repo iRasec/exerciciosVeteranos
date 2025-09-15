@@ -13,9 +13,12 @@ docker-compose up -d
 
 docker ps
 
+<img width="700" height="1005" alt="Image" src="https://github.com/user-attachments/assets/992f3f5d-0a6d-4286-b6fa-fcb38c73c760" />
+
 Aplicação disponível em: http://localhost:3000/
 
-<img width="700" height="1005" alt="Image" src="https://github.com/user-attachments/assets/992f3f5d-0a6d-4286-b6fa-fcb38c73c760" />
+<img width="776" height="649" alt="chatwootlogin" src="https://github.com/user-attachments/assets/f28ea5b3-50bb-4654-b4e9-5ffdf1e6163e" />
+
 
 👥 2. Funcionalidades de agentes
 Referências
