@@ -3,7 +3,9 @@
 Dentro do projeto ai-secretaria:
 
 git clone https://github.com/iRasec/ai-secretaria.git
+
 cd ai-secretaria
+
 docker-compose up -d
 
 
